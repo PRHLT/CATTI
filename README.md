@@ -5,12 +5,12 @@ The software can be compiles as a shared library (catti-plugin.so).
 
 Compilation:
 
-cd wg/lat-parser/
-make
-cd ..
-make
-cd ..
-make
+cd wg/lat-parser/;
+make;
+cd ..;
+make;
+cd ..;
+make;
 
 This plugin requires a configuration file with two parameters. The first one (-W) specifies the name of a file with the correspondence between the ids and the wordgraphs. The second one (-G) is an unigram in HTK format. 
 
