@@ -1,0 +1,2 @@
+-W ./Test/pathswg.lst
+-G ./Test/1gram.gram
